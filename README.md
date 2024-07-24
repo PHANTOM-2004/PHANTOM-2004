@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
+# Hi there
 
 <p align="center">
     <b> Welcome to my page!</b>
@@ -31,16 +31,25 @@ Most favorites languages:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 Sometimes: ![python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 
+## ⌨️  Favorite Editors
+
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+**also**:  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
 ## 💿 Favorite OS
 
-Daily && Games: 
+Daily && Games:
+
 - ![win](https://img.shields.io/badge/windows_11_Pro-black?style=for-the-badge&logo=windows11)
 
 Development:
-- ![arch](https://img.shields.io/badge/arch_linux-black?style=for-the-badge&logo=archlinux) 
+
+- ![arch](https://img.shields.io/badge/arch_linux-black?style=for-the-badge&logo=archlinux)
 - ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-Server: 
+Server:
+
 - ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 ## 👨‍💻 GitHub Activities
@@ -52,3 +61,7 @@ Server:
 ## Social Media
 
 Zhihu: [千代纸](https://www.zhihu.com/people/qian-dai-zhi-61)
+
+## Reach Me
+
+email: <phantom_04@qq.com>
