@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 # Hi there
 
 <p align="center">
-    <b> Welcome to my page!</b>
+    <b> Welcome to my profile!</b>
     <br><br>
     <i>
      I'm YT Chen,<br>
-     Currently a undergraduate student in Tongji University, Majored in Computer Science.
+     Currently an undergraduate student in Tongji University, Majored in Computer Science.
     </i>
 </p>
 
