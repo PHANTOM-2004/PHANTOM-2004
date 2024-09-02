@@ -57,15 +57,16 @@ Server:
 - ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 ## 👨‍💻 GitHub Activities
+<!--
 ![details](https://raw.githubusercontent.com/PHANTOM-2004/profile-summary-gen/master/profile-summary-card-output/moonlight/0-profile-details.svg)
 ![language](https://raw.githubusercontent.com/PHANTOM-2004/profile-summary-gen/master/profile-summary-card-output/moonlight/1-repos-per-language.svg)
 ![productive-time](https://raw.githubusercontent.com/PHANTOM-2004/profile-summary-gen/master/profile-summary-card-output/moonlight/4-productive-time.svg)
-
-<!--
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHANTOM-2004&theme=moonlight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHANTOM-2004&theme=moonlight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHANTOM-2004&theme=moonlight&utcOffset=8)
 -->
+
+![detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHANTOM-2004&theme=moonlight)
+![repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHANTOM-2004&theme=moonlight&exclude=tex)
+![productive](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHANTOM-2004&theme=moonlight&utcOffset=8)
+
 
 ## Social Media
 
